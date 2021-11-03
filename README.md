@@ -1,2 +1,20 @@
-# python-app-stater
-python app stater with package manager poetry
+# Python App Stater
+
+> python3 app stater with package manager poetry
+
+## Requirement
+
+- [python3](https://www.python.org/downloads), pip3
+- [poetry](https://python-poetry.org/docs/)
+- _[nodemon](https://github.com/remy/nodemon) if you are going to use the nodemon package to develop your app._
+
+## Getting Start
+
+1. install package
+   `$ poetry install`
+
+2. poetry init virtual env
+   `$ poetry shell`
+
+3. running app
+   `$ poetry run python3 cli.py start`
