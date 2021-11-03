@@ -10,6 +10,8 @@
 
 ## Getting Start
 
+_install "Poetry" pycharm plugin when using in pycharm_
+
 1. install package
    `$ poetry install`
 
@@ -21,3 +23,4 @@
 
 4. test app
    `$ pytest tests/<file>`
+
