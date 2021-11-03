@@ -18,3 +18,6 @@
 
 3. running app
    `$ python3 cli.py start`
+
+4. test app
+   `$ pytest tests/<file>`
