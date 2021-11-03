@@ -17,4 +17,4 @@
    `$ poetry shell`
 
 3. running app
-   `$ poetry run python3 cli.py start`
+   `$ python3 cli.py start`
